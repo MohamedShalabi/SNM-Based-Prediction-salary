@@ -1,4 +1,4 @@
-# SNM-Based-Prediction-salary
+# SvM-Based-Prediction-salary
 A step  step model  building to predict salary if they are more than 50k or less than 50k using support vector machine for a binary classification sytem 
 import numpy as np
 import matplotlib.pyplot as plt
