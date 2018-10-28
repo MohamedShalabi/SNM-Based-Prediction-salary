@@ -13,8 +13,12 @@ input_file = 'income_data.txt'
 # Read the data
 X = []
 y = []
+
+
 count_class1 = 0
+
 count_class2 = 0
+
 max_datapoints = 25000
 
 with open(input_file, 'r') as f:
